@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-scheduling-react-native",
+  "capabilityKey": "liberusoftware/module-maintenance-scheduling",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-maintenance-scheduling-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/maintenance/nextjs/scheduling.md",
+  "presentationPlan": "projects/maintenance/react-native/scheduling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
